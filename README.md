@@ -30,6 +30,12 @@ This script utilizes the Telethon library to scrape videos from a Telegram chann
 - Make sure the Telegram channel you're scraping videos from allows bot access and sharing of its content.
 - This script assumes a single channel link and a predefined list of video URLs. Modify the `get_channel_videos()` function to dynamically fetch videos from the channel if needed.
 
+## Heroku Deployment 💜
+The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VOIDEX-TG/Gufa-Bot)
+
+
 **Author:**
 [HexorXd](https://t.me/Sher_e_Purvanchal)
 
